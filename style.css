@@ -1,0 +1,24 @@
+body{
+    background:black;
+    color:aqua;
+    margin: 0px;
+    font-family: "Silkscreen", system-ui;
+}
+header{
+    border-bottom: solid 1px rgb(168, 168, 168);
+    padding: 20px;
+    font-size: 50; 
+}
+section{
+    background: rgb(29, 145, 160);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display:flex;
+    justify-content:center;
+}
+.titulo-video{
+    margin-right: 5%;
+}
+img{
+    height:200px;
+}
